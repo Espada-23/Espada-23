@@ -10,7 +10,7 @@
 <h2>🔥 Sobre Mim</h2>
 <p>
   Tenho 18 anos e atualmente curso o técnico em <b>Análise e Desenvolvimento de Sistemas</b> no SENAI de Mecatrônica (SP). 
-  Minha jornada começou na área de FullStack, porém atualmente estou gostando bastante da área de <b>Front-End</b>.
+  Minha jornada começou na área de FullStack e pretendo ampliá-la assim que possível.
 </p>
 
 <ul>
@@ -24,17 +24,14 @@
 <h2>📖 O Que Estou Estudando: </h2>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
 
 <h2>📚 O Que Pretendo Estudar:</h2>
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
 
 <h2>🛠️ Ferramentas Atualmente Utilizadas: </h2>
